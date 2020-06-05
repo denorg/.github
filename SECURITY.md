@@ -20,7 +20,7 @@ If you find a security bug in this repository, please work us following responsi
   - We will review your submission and may follow up for additional details
   - If you have a patch, we will review it and approve it privately; once approved for release you can submit it as a pull request publicly in our repos (we give credit where credit is due)
   - We will keep you informed during our investigation, feel free to check in for a status update
-  - We will release the fix and publicly disclose the issue as soon as possible, but want  to ensure we due properly due diligence before releasing 
+  - We will release the fix and publicly disclose the issue as soon as possible, but want to ensure we due properly due diligence before releasing 
   - Please do not publicly blog or post about the security issue until after we have updated the public repo so that other downstream users have an opportunity to patch
 
 ## Contact
