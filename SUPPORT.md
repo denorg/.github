@@ -1,7 +1,7 @@
 # Support
 
 > This project has a [Code of Conduct](https://github.com/AnandChowdhary/.github/blob/master/CODE_OF_CONDUCT.md).
-> By interacting with this repository, organisation, or community you agree to
+> By interacting with this repository, organization, or community you agree to
 > abide by its terms.
 
 Hi!  👋
@@ -20,7 +20,7 @@ next to their day job; you are not entitled to free customer service.
 
 ## Questions
 
-Please chat and ask questions by opening a GitHubissue.
+Please chat and ask questions by opening a GitHub issue.
 Jump in there and lurk, talk to us, and help others.
 
 ### Asking quality questions
